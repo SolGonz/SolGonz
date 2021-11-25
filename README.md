@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **JS, React & Redux.**
 
 - 📫 How to reach me **solgonzalezaraya@gmail.com**
+- I'm currently looking for my first job as front end dev.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
