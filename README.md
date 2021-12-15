@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sol</h1>
 <h3 align="center">A curious frontend developer from Chile</h3>
 
-- 🌱 I’m currently learning **JS, React & Redux.**
+- 🌱 I’m currently learning **JS, React & Next.**
 
 - 📫 How to reach me **solgonzalezaraya@gmail.com**
 - I'm currently looking for my first job as front end dev.
