@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sol</h1>
-<h3 align="center">A QA Automation in progress developer from Chile</h3>
+<h3 align="center">An automation QA tester</h3>
 
 - 🌱 I’m currently learning **Cypress.**
 
